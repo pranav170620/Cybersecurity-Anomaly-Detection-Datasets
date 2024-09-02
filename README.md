@@ -1,0 +1,1 @@
+The datasets contain SQL and XSS injection attack queries which includes safe, vulnerable and highly vulnerable queries, which can be used to create a anomaly detection model to detect any anomalies from the queries.
